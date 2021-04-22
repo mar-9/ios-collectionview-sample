@@ -13,7 +13,7 @@
 		69B3E322263047920007824C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 69B3E320263047920007824C /* Main.storyboard */; };
 		69B3E324263047990007824C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 69B3E323263047990007824C /* Assets.xcassets */; };
 		69B3E327263047990007824C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 69B3E325263047990007824C /* LaunchScreen.storyboard */; };
-		69B3E33126304CCE0007824C /* ColumnFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B3E33026304CCE0007824C /* ColumnFlowLayout.swift */; };
+		69B3E36226319CF90007824C /* ColumnFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B3E36126319CF90007824C /* ColumnFlowLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		69B3E323263047990007824C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		69B3E326263047990007824C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		69B3E328263047990007824C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		69B3E33026304CCE0007824C /* ColumnFlowLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ColumnFlowLayout.swift; path = ../../../../Documents/ColumnFlowLayout.swift; sourceTree = "<group>"; };
+		69B3E36126319CF90007824C /* ColumnFlowLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColumnFlowLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 				69B3E323263047990007824C /* Assets.xcassets */,
 				69B3E325263047990007824C /* LaunchScreen.storyboard */,
 				69B3E328263047990007824C /* Info.plist */,
-				69B3E33026304CCE0007824C /* ColumnFlowLayout.swift */,
+				69B3E36126319CF90007824C /* ColumnFlowLayout.swift */,
 			);
 			path = "ios-collectionview-sample";
 			sourceTree = "<group>";
@@ -141,7 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				69B3E31F263047920007824C /* ViewController.swift in Sources */,
-				69B3E33126304CCE0007824C /* ColumnFlowLayout.swift in Sources */,
+				69B3E36226319CF90007824C /* ColumnFlowLayout.swift in Sources */,
 				69B3E31B263047920007824C /* AppDelegate.swift in Sources */,
 				69B3E31D263047920007824C /* SceneDelegate.swift in Sources */,
 			);
